@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+* {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+
+}
+
+main {
+    background-color: rgba(0, 128, 0, 0.303);
+    padding: 1.3em;
+}
+
+section {
+    background-color: rgba(255, 0, 0, 0.278);
+    
+}
+footer {
+    text-align: center;
+    background-color: lightgray;
+}
